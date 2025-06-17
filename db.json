@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "title": "The DIJ (React-Drone app)",
+      "description": "Built a scalable e-commerce application with React.js and Redux, using Firebase for backend services and user authentication. Implemented core e-commerce features like cart handling, search, filtering, and page routing. Emphasized component reusability and clean code structure. ",
+      "image": "Screenshot 2025-06-17 160337.png",
+      "link": "https://dij-react-product.vercel.app/",
+      "id": "1"
+    },
+    {
+      "title": "Admin Panel",
+      "description": "Created a feature-rich, fully responsive admin panel with Bootstrap and jQuery, enhancing usability and functionality for administrators.",
+      "image": "Screenshot 2025-02-08 162514.png",
+      "link": "https://67a736ad0e3cc31c3fd2c1fa--sunny-cascaron-2f9a54.netlify.app/",
+      "id": "2"
+    },
+    {
+      "title": "Weather App",
+      "description": "A weather forecasting app using OpenWeather API. and keep good work.",
+      "image": "https://the-guild.dev/medium/50ea860594889aa4f1b96a509c886b9c.jpg",
+      "link": "https://myweatherapp.com",
+      "id": "3"
+    },
+    {
+      "title": "Task Manager",
+      "description": "A simple task management application with user authentication.",
+      "image": "https://source.unsplash.com/300x200/?task,management",
+      "link": "https://mytaskmanager.com",
+      "id": "4"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A responsive blog website built using Bootstrap and jQuery, featuring a modern UI, smooth animations, and dynamic content handling.",
+      "image": "Screenshot 2025-02-08 161333.png",
+      "link": "https://wonderful-granita-4b72ea.netlify.app/",
+      "id": "5"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "6e5a",
+      "name": "john",
+      "email": "abc@gmail.com",
+      "message": "hii need your contact "
+    },
+    {
+      "id": "6bf2",
+      "name": "Pratik Amrutkar",
+      "email": "pratikaamrutkar9999@gmail.com",
+      "message": "wdggrtehrsdf"
+    },
+    {
+      "id": "1113",
+      "name": "Pratik Amrutkar",
+      "email": "pratikaamrutkar9999@gmail.com",
+      "message": "please sir contact me"
+    }
+  ],
+  "users": [
+    {
+      "id": "f298",
+      "email": "abc123@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
