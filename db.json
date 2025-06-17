@@ -15,10 +15,10 @@
       "id": "2"
     },
     {
-      "title": "Weather App",
-      "description": "A weather forecasting app using OpenWeather API. and keep good work.",
-      "image": "https://the-guild.dev/medium/50ea860594889aa4f1b96a509c886b9c.jpg",
-      "link": "https://myweatherapp.com",
+      "title": "Nike-clone (MERN) Responsive",
+      "description": "Nike clone with Razorpay payments, email auth (Nodemailer), and image uploads via Multer. Built using React, Redux Toolkit, Tailwind, Node.js, Express, MongoDB. Deployed frontend on Vercel and backend on Render with responsive design and full UI replication.",
+      "image": "Screenshot 2025-06-18 011322.png",
+      "link": "https://nike-frontend-sooty.vercel.app/",
       "id": "3"
     },
     {
