@@ -22,10 +22,10 @@
       "id": "3"
     },
     {
-      "title": "Task Manager",
-      "description": "A simple task management application with user authentication.",
-      "image": "https://source.unsplash.com/300x200/?task,management",
-      "link": "https://mytaskmanager.com",
+      "title": "MERNBlog Admin Dashboard",
+      "description": "A responsive blog management platform with secure user authentication, comment moderation, and post management. Built using React, Tailwind CSS, Express, MongoDB, and JSON Web Tokens (JWT), this full-stack project includes admin-level control and dynamic server-side operations.",
+      "image": "Screenshot 2025-06-18 021350.png",
+      "link": "https://mernblogfrontend-two.vercel.app/",
       "id": "4"
     },
     {
